@@ -1,3 +1,5 @@
+<img src="/res/Log.png">
+
 3. The ambitious roadmap
 Here is how I would evolve this into a serious open-source engineering platform:
 NexPilot development roadmap
