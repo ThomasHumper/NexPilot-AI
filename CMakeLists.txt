@@ -11,3 +11,5 @@ if path.suffix == ".py":
 
 elif path.suffix == ".java":
     self.analyze_java(path, source)
+    
+python nexpilor.py ./java-project
