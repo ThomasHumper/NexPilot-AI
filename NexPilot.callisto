@@ -1,3 +1,10 @@
+module main
+
+import std.io
+
+"Hello, world!" print_str new_line
+
+
 include "cores/select.cal"
 include "std/io.cal"
 
