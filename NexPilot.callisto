@@ -1,0 +1,15 @@
+include "cores/select.cal"
+include "std/io.cal"
+
+"Hello, world!\n" print_str
+
+
+Output:
+Hello, world!
+
+
+How it works:
+- include "cores/select.cal" – Selects the appropriate platform core.
+- include "std/io.cal" – Imports standard input/output functions.
+- "Hello, world!\n" – Pushes a string onto the stack.
+- print_str – Prints the string to the console.
