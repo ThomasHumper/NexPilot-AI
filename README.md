@@ -1,4 +1,4 @@
-<img src="/res/Log.png">
+<img src="/res/Logo.png">
 
 3. The ambitious roadmap
 Here is how I would evolve this into a serious open-source engineering platform:
